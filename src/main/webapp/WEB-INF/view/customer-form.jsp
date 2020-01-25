@@ -48,7 +48,7 @@
                     </tr>
                     <tr>
                         <td><label>Save</label></td>
-                        <td><input type="submit" value="save" class="save"/></td>
+                        <td><input type="submit" value="Save" class="save"/></td>
                     </tr>
                     </tbody>
                 </table>
