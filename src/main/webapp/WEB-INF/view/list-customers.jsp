@@ -12,7 +12,7 @@
 
 	<link type="text/css"
 		  rel="stylesheet"
-		  href="${pageContext.request.contextPath}/src/main/webapp/resources/css/style.css" />
+		  href="${pageContext.request.contextPath}/resources/css/style.css" />
 
 </head>
 
