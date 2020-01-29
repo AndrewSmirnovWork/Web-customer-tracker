@@ -30,7 +30,7 @@ public class MySpringMvcDispatcherServletInitializer /*extends AbstractAnnotatio
 	@Override
 	public void onStartup(ServletContext servletContext) {
 		AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
-		context.register(AppConfig.class);
+		context.register(DemoAppConfig.class);
 		context.setServletContext(servletContext);
 
 		ServletRegistration.Dynamic dispatcher = servletContext.addServlet("dispatcher", new DispatcherServlet(context));

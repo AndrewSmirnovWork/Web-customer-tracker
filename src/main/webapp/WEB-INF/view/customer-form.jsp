@@ -12,10 +12,10 @@
     <title>Add customer</title>
     <link type="text/css"
           REL="stylesheet"
-          href="${pageContext.request.contextPath}/src/main/webapp/resources/css/style.css"/>
+          href="${pageContext.request.contextPath}/resources/css/style.css"/>
     <link type="text/css"
           REL="stylesheet"
-          href="${pageContext.request.contextPath}/src/main/webapp/resources/css/add-customer-style.css"/>
+          href="${pageContext.request.contextPath}/resources/css/add-customer-style.css"/>
 </head>
 <body>
     <table>
