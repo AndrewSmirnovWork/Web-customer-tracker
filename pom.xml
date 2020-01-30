@@ -7,18 +7,6 @@
     <groupId>spring.hibernate.demo</groupId>
     <artifactId>Web-customer-tracker</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!-- <build>
-         <plugins>
-             <plugin>
-                 <groupId>org.apache.maven.plugins</groupId>
-                 <artifactId>maven-compiler-plugin</artifactId>
-                 <configuration>
-                     <source>6</source>
-                     <target>6</target>
-                 </configuration>
-             </plugin>
-         </plugins>
-     </build>-->
     <packaging>war</packaging>
 
     <!--    <parent>
@@ -163,14 +151,7 @@
 
     </dependencies>
 
-    <!--
-        <properties>
-            <java.version>1.8</java.version>
-        </properties>-->
-
-
     <build>
-
         <plugins>
 
             <!-- Builds a Web Application Archive (WAR) file from the project output
